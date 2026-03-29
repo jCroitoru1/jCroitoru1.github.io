@@ -1,9 +1,15 @@
 # jCroitoru1.github.io
-Hi This is going to be my portfolio, and almost a diary of a sort through my data science journey.
-Where I have been working for the past 3 years as a Data Engineer at Markel Insurance : 
- A summary of technical wins that I have been behind : 
-   a.Creating a Classifier to intake foreign data sources 
-   b.Generating systems that intake mutiple inconsitent API sources creating consistent daily data returns.
-   c. Generating ETL systems using Python, Windows Scheduler, to return data to Databricks. 
-   d.Working across legacy source systems to return data into Databricks. 
-   e. Beginning to create first-wave agentic analytics to pair along with Power BI dashboards in a Flask enviroment.
+
+Personal portfolio site for Jared Croitoru. The site is designed for GitHub Pages and presents project work through a clean, recruiter-friendly layout.
+
+## Highlights
+
+- Responsive one-page portfolio
+- Project-first storytelling
+- Ready to customize with live GitHub and LinkedIn links
+
+## Publish
+
+1. Push this repository to GitHub.
+2. Enable GitHub Pages in the repository settings.
+3. Update the GitHub profile link in `index.html` with your username.
